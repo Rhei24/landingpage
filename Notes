@@ -1,0 +1,6 @@
+Notes
+
+*run npm run dev + php artisan serve together (2 terminals)
+
+4-7-2023 - added database using php artisan migrate then creating db (dunno where to check the db)
+         -> changed laravel plugin url(npm run dev) to 8000 port (same as php artisan serve)
